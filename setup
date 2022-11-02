@@ -208,3 +208,4 @@ systemctl restart supervisor
 now navigate to https://localhost
 to complete install of your new faveo community helpdesk
 
+# https://docs.faveohelpdesk.com/docs/installation/providers/community/ubuntu-apache
